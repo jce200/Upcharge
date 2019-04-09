@@ -1,7 +1,7 @@
 # Upcharge
 Change the world -- change yourself
 
-![alt tag](https://www.upcharge.nl/cover.png "Homepage")
+![alt tag](http://www.upcharge.nl/cover.png "Homepage")
 
 ## Webapp
 Upcharge is a platform that connects location independent professionals and local schools, 
